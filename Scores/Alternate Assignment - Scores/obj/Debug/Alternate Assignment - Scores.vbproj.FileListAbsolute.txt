@@ -1,0 +1,24 @@
+C:\Users\TEMP-PC\OneDrive\Documents\Visual Studio 2019\Grade 12\Projects\Alternate Assignment - Scores\Alternate Assignment - Scores\bin\Debug\Alternate Assignment - Scores.exe.config
+C:\Users\TEMP-PC\OneDrive\Documents\Visual Studio 2019\Grade 12\Projects\Alternate Assignment - Scores\Alternate Assignment - Scores\bin\Debug\Alternate Assignment - Scores.exe
+C:\Users\TEMP-PC\OneDrive\Documents\Visual Studio 2019\Grade 12\Projects\Alternate Assignment - Scores\Alternate Assignment - Scores\bin\Debug\Alternate Assignment - Scores.pdb
+C:\Users\TEMP-PC\OneDrive\Documents\Visual Studio 2019\Grade 12\Projects\Alternate Assignment - Scores\Alternate Assignment - Scores\bin\Debug\Alternate Assignment - Scores.xml
+C:\Users\TEMP-PC\OneDrive\Documents\Visual Studio 2019\Grade 12\Projects\Alternate Assignment - Scores\Alternate Assignment - Scores\obj\Debug\Alternate Assignment - Scores.vbprojAssemblyReference.cache
+C:\Users\TEMP-PC\OneDrive\Documents\Visual Studio 2019\Grade 12\Projects\Alternate Assignment - Scores\Alternate Assignment - Scores\obj\Debug\Alternate_Assignment___Scores.Form1.resources
+C:\Users\TEMP-PC\OneDrive\Documents\Visual Studio 2019\Grade 12\Projects\Alternate Assignment - Scores\Alternate Assignment - Scores\obj\Debug\Alternate_Assignment___Scores.Resources.resources
+C:\Users\TEMP-PC\OneDrive\Documents\Visual Studio 2019\Grade 12\Projects\Alternate Assignment - Scores\Alternate Assignment - Scores\obj\Debug\Alternate Assignment - Scores.vbproj.GenerateResource.cache
+C:\Users\TEMP-PC\OneDrive\Documents\Visual Studio 2019\Grade 12\Projects\Alternate Assignment - Scores\Alternate Assignment - Scores\obj\Debug\Alternate Assignment - Scores.vbproj.CoreCompileInputs.cache
+C:\Users\TEMP-PC\OneDrive\Documents\Visual Studio 2019\Grade 12\Projects\Alternate Assignment - Scores\Alternate Assignment - Scores\obj\Debug\Alternate Assignment - Scores.exe
+C:\Users\TEMP-PC\OneDrive\Documents\Visual Studio 2019\Grade 12\Projects\Alternate Assignment - Scores\Alternate Assignment - Scores\obj\Debug\Alternate Assignment - Scores.xml
+C:\Users\TEMP-PC\OneDrive\Documents\Visual Studio 2019\Grade 12\Projects\Alternate Assignment - Scores\Alternate Assignment - Scores\obj\Debug\Alternate Assignment - Scores.pdb
+C:\Users\thats\Downloads\Alternate Assignment - Scores\Alternate Assignment - Scores\bin\Debug\Alternate Assignment - Scores.exe.config
+C:\Users\thats\Downloads\Alternate Assignment - Scores\Alternate Assignment - Scores\bin\Debug\Alternate Assignment - Scores.exe
+C:\Users\thats\Downloads\Alternate Assignment - Scores\Alternate Assignment - Scores\bin\Debug\Alternate Assignment - Scores.pdb
+C:\Users\thats\Downloads\Alternate Assignment - Scores\Alternate Assignment - Scores\bin\Debug\Alternate Assignment - Scores.xml
+C:\Users\thats\Downloads\Alternate Assignment - Scores\Alternate Assignment - Scores\obj\Debug\Alternate Assignment - Scores.vbprojAssemblyReference.cache
+C:\Users\thats\Downloads\Alternate Assignment - Scores\Alternate Assignment - Scores\obj\Debug\Alternate_Assignment___Scores.Form1.resources
+C:\Users\thats\Downloads\Alternate Assignment - Scores\Alternate Assignment - Scores\obj\Debug\Alternate_Assignment___Scores.Resources.resources
+C:\Users\thats\Downloads\Alternate Assignment - Scores\Alternate Assignment - Scores\obj\Debug\Alternate Assignment - Scores.vbproj.GenerateResource.cache
+C:\Users\thats\Downloads\Alternate Assignment - Scores\Alternate Assignment - Scores\obj\Debug\Alternate Assignment - Scores.vbproj.CoreCompileInputs.cache
+C:\Users\thats\Downloads\Alternate Assignment - Scores\Alternate Assignment - Scores\obj\Debug\Alternate Assignment - Scores.exe
+C:\Users\thats\Downloads\Alternate Assignment - Scores\Alternate Assignment - Scores\obj\Debug\Alternate Assignment - Scores.xml
+C:\Users\thats\Downloads\Alternate Assignment - Scores\Alternate Assignment - Scores\obj\Debug\Alternate Assignment - Scores.pdb
